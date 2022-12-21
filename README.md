@@ -43,7 +43,7 @@ A non violent horror, throwing game.
 
 ## Contributors
 
-- [Tom Rouet | Sealed001](https://github.com/Sealed001/)
+- [Aubrey Rouet | Sealed001](https://github.com/Sealed001/)
 - [Corentin Boblet | coco3167](https://github.com/coco3167/)
 - [Léo Slomczynski](https://github.com/EvaSlomczynski)
 - [Clement Miermont](https://github.com/ClementMiermont)
